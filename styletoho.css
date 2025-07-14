@@ -1,0 +1,11 @@
+h2{border:5px dotted #CC6699;margin:5px}
+h3{background-color:##006400 ;
+   border-radius:20px}
+body{background-color:#dc143c }
+table{border-collapse:collapse;
+      margin:auto}
+table tr:nth-child(odd){font-color:##CC66FF}
+a:link{color:#CC0099}
+a:visited{color:#FF3366}
+a:hover{color:#99CCFF}
+a:active{color:#CCFFCC}
